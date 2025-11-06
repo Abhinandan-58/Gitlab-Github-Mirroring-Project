@@ -33,7 +33,7 @@ You push code to GitLab, GitLab automatically copies that code to GitHub, So bot
 
  Developer/Local System  -->Push Code -->GitLab Repository--> Auto Morror --> GitHub Repository --> Code Updated -->View On GitHub
 
- 
+![](./img/OIP.jpeg.jpg)
 
  ## Steps to Set Up GitLab → GitHub Mirroring
 
